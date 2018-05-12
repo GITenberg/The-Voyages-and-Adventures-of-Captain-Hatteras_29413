@@ -1,0 +1,46 @@
+_repo: The-Voyages-and-Adventures-of-Captain-Hatteras_29413
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Riou, Edouard
+    aliases:
+    - Riou
+    - Riou, E. (Edouard)
+    - Riou, Édouard
+    birthdate: 1833
+    deathdate: 1900
+    gutenberg_agent_id: '33898'
+    url: http://www.gutenberg.org/2009/agents/33898
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriël
+    - Verne, Jules Gabriel
+    - Verne, Júlio
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+description: ''
+gutenberg_issued: '2009-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29413'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Sea stories'
+- !lcc 'PQ'
+title: The Voyages and Adventures of Captain Hatteras
+url: http://www.gutenberg.org/ebooks/29413
